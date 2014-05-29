@@ -1,0 +1,21 @@
+{
+	"name":        "meerkat/meerkat-realplexor",
+	"type":        "kohana-module",
+	"description": "Wrapper for Dklab_Realplexor",
+	"homepage":    "http://dklab.ru/lib/dklab_realplexor",
+	"license":     "BSD-3-Clause",
+	"keywords":    ["kohana", "framework", "realplexor", "comet server", "meerkat"],
+	"authors": [
+		{
+			"name":     "Dklab Team",
+			"email":    "http://dklab.ru/redir?http://forum.dklab.ru/users/DmitryKoterov/email/",
+			"homepage": "http://dklab.ru/lib/dklab_realplexor",
+			"role":     "developer"
+		}
+	],
+	"require": {
+		"composer/installers":  "~1.0",
+		"meerkat/meerkat-core": "*",
+		"php":                  ">=5.3.3"
+	}
+}

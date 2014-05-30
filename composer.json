@@ -11,6 +11,12 @@
 			"email":    "dmitry@koterov.ru",
 			"homepage": "http://dklab.ru/lib/dklab_realplexor",
 			"role":     "developer"
+		},
+		{
+			"name":     "Alexey Berdnikov",
+			"email":    "aberdnikov@gmail.com",
+			"homepage": "http://github.com/aberdnikov",
+			"role":     "mainteiner"
 		}
 	],
 	"require": {
